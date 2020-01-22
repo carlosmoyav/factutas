@@ -1,0 +1,11 @@
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/obj/Debug/netcoreapp3.0/TareaFacturasLinqr.csprojAssemblyReference.cache
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/obj/Debug/netcoreapp3.0/TareaFacturasLinqr.AssemblyInfoInputs.cache
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/obj/Debug/netcoreapp3.0/TareaFacturasLinqr.AssemblyInfo.cs
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/bin/Debug/netcoreapp3.0/TareaFacturasLinqr
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/bin/Debug/netcoreapp3.0/TareaFacturasLinqr.deps.json
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/bin/Debug/netcoreapp3.0/TareaFacturasLinqr.runtimeconfig.json
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/bin/Debug/netcoreapp3.0/TareaFacturasLinqr.runtimeconfig.dev.json
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/bin/Debug/netcoreapp3.0/TareaFacturasLinqr.dll
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/bin/Debug/netcoreapp3.0/TareaFacturasLinqr.pdb
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/obj/Debug/netcoreapp3.0/TareaFacturasLinqr.dll
+/Users/carlosmoya/Projects/TareaFacturasLinqr/TareaFacturasLinqr/obj/Debug/netcoreapp3.0/TareaFacturasLinqr.pdb
